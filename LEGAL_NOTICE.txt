@@ -1,0 +1,43 @@
+Durgaai Secure Communications  
+© 2024 Durgaai Solutions. All Rights Reserved.
+
+This System Is Intended For Authorized Personnel Only. All Interactions  
+Through This System May Be Monitored And Recorded For Security, Audit,  
+And Operational Purposes.
+
+Unauthorized Access, Modification, Distribution, Or Use Of This System  
+Is Strictly Prohibited And May Result In Criminal Prosecution And/Or  
+Civil Liability Under Applicable Laws.
+
+By Accessing Or Using This System, You Agree To The Following Terms:
+
+- You Are Authorized By Durgaai Solutions Or An Affiliated Organization  
+- You Understand That All Voice And Message Data May Be Logged  
+- You Accept That System Usage May Be Terminated At Any Time Without Notice  
+- You Will Not Attempt To Reverse Engineer, Clone, Or Redistribute This System  
+- You Will Follow All Internal Security Guidelines And Usage Policies
+
+All Communication Data May Be Subject To Lawful Interception By Authorized Parties.  
+Durgaai Solutions Reserves The Right To Report Any Suspicious Or Unauthorized  
+Activity To Relevant Authorities.
+
+This System May Store Call Logs, Voicemail Recordings, Messaging Metadata,  
+And Authentication Attempts For Security And Compliance Monitoring.
+
+All Rights, Intellectual Property, And Branding Elements Associated With  
+Durgaai Secure Communications Are The Exclusive Property Of Durgaai Solutions.
+
+### Jurisdiction Notice
+
+This System Is Maintained And Operated Under The Laws Of The Republic Of India.  
+Any Legal Disputes Shall Be Settled Under The Jurisdiction Of Chennai, Tamil Nadu, India.
+
+### Trademarks
+
+"Durgaai" And "Durgaai Secure Communications" Are Trademarks Of Durgaai Solutions.
+
+### Contact Information
+
+Legal And Compliance Inquiries: legal@durgaaisolutions.com  
+Security Reports And Incidents: security@durgaaisolutions.com  
+Website: https://durgaaisolutions.com/legal

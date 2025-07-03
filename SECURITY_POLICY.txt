@@ -1,0 +1,53 @@
+# Security Policy – Durgaai Secure Communications
+
+## 🔐 Reporting Vulnerabilities
+
+If You Discover A Vulnerability In This System, Please Report It Immediately To:
+
+- Email: security@durgaaisolutions.com
+
+Do Not Disclose Publicly Without Coordination With The Durgaai Security Team.
+
+## ✅ Recommended Usage Guidelines
+
+- Use Only On Secured, Local Networks (E.G., Bridged Virtualbox Or Lan)  
+- Do Not Expose SIP Ports (5060/UDP) Or RTP Ports (10000–20000/UDP) To The Public Internet  
+- Set Strong, Complex Passwords For All SIP Users  
+- Change Default Passwords Immediately After Setup  
+- Enable And Configure A Firewall (E.G., UFW Or Iptables) To Limit Network Exposure  
+- Use Fail2Ban Or Similar Tools To Block Repeated Failed Authentication Attempts  
+- Keep The Underlying Operating System And Asterisk Updated Regularly  
+- Monitor Asterisk Logs For Suspicious Activity (`/var/log/asterisk/full`)  
+- Use Separate Contexts For Internal, External, And Admin Users  
+- Disable Any Unused Modules In Asterisk To Minimize Attack Surface  
+- Ensure Only Trusted Endpoints Are Registered With The PBX  
+
+## ⚠️ Physical & Network Security
+
+- Do Not Run This System On Shared Or Public Hardware  
+- Disable Root SSH Access And Use Key-Based Authentication For SSH  
+- Configure Time-Based Lockouts For SIP Users After Multiple Failed Login Attempts  
+- Do Not Use Weak Protocols Or Deprecated Codecs (E.G., GSM, G729 Without Licensing)  
+
+## ❌ Unauthorized Use
+
+This System Is Not Designed Or Approved For:
+
+- Emergency Services Or Life-Saving Communication  
+- Public-Facing Commercial VoIP Infrastructure  
+- Compliance-Critical Environments (E.G., HIPAA, GDPR, PCI-DSS)  
+- Handling Sensitive Government Or Classified Information  
+- Interconnection With Untrusted Third-Party VoIP Gateways Or Carriers  
+
+## 📄 Policy Enforcement
+
+Violations Of These Security Guidelines May Lead To Revocation Of Access,  
+Security Breach Notifications, Or Other Remediation Actions.
+
+If You Are Deploying This System As Part Of A Commercial Product Or Government  
+Contract, You Must Perform An Independent Security Audit Before Use.
+
+## 📬 Contact
+
+For Security Reports, Policy Questions, Or Responsible Disclosure Requests, Contact:  
+**security@durgaaisolutions.com**
